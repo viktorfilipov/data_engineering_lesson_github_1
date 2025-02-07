@@ -6,3 +6,5 @@ print(a,b,c)
 
 с=3
 print(с)
+
+м=2
